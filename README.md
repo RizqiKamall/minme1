@@ -1,1 +1,1 @@
-# minme1
+# ario_ccminer
